@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This assignment writes a pair of functions that caches the inverse of a matrix.
+## It is useful to cache because matrix inversion is usually a costly computation and
+## resources can be saved through cache rather than computing it repeatedly.
 
 ## Write a short comment describing this function
 
